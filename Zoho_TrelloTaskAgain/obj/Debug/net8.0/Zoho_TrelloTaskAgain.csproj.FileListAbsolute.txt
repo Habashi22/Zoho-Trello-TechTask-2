@@ -1,0 +1,17 @@
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\bin\Debug\net8.0\Zoho_TrelloTaskAgain.exe
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\bin\Debug\net8.0\Zoho_TrelloTaskAgain.deps.json
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\bin\Debug\net8.0\Zoho_TrelloTaskAgain.runtimeconfig.json
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\bin\Debug\net8.0\Zoho_TrelloTaskAgain.dll
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\bin\Debug\net8.0\Zoho_TrelloTaskAgain.pdb
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\obj\Debug\net8.0\Zoho_TrelloTaskAgain.csproj.AssemblyReference.cache
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\obj\Debug\net8.0\Zoho_TrelloTaskAgain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\obj\Debug\net8.0\Zoho_TrelloTaskAgain.AssemblyInfoInputs.cache
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\obj\Debug\net8.0\Zoho_TrelloTaskAgain.AssemblyInfo.cs
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\obj\Debug\net8.0\Zoho_TrelloTaskAgain.csproj.CoreCompileInputs.cache
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\obj\Debug\net8.0\Zoho_Tre.30E3D084.Up2Date
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\obj\Debug\net8.0\Zoho_TrelloTaskAgain.dll
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\obj\Debug\net8.0\refint\Zoho_TrelloTaskAgain.dll
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\obj\Debug\net8.0\Zoho_TrelloTaskAgain.pdb
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\obj\Debug\net8.0\Zoho_TrelloTaskAgain.genruntimeconfig.cache
+E:\ITI visual\deviationCompanyTask\Zoho_TrelloTaskAgain\Zoho_TrelloTaskAgain\obj\Debug\net8.0\ref\Zoho_TrelloTaskAgain.dll
